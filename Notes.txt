@@ -1,0 +1,7 @@
+Cloud Security Notes
+
+• IAM: Restrict access using least privilege.
+• Secure Storage: Keep folders private.
+• Encryption at Rest: AES-256.
+• Encryption in Transit: TLS/HTTPS.
+• Enable MFA and audit permissions regularly.
